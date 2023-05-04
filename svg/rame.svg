@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350.158" height="269.97" viewBox="0 0 350.158 269.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-opacity: 0;
+        stroke: #b59f5b;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <path id="Рамка" class="cls-1" d="M657.066,2965.98H1004.21v266.95H657.066V2965.98Z" transform="translate(-655.562 -2964.47)"/>
+</svg>
